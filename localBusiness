@@ -1,0 +1,46 @@
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"Store",
+  "@id":"https://www.aluxediamond.com/tw/",
+  "name": "A-LUXE亞立詩",
+  "address":[
+   {
+    "@type":"PostalAddress",
+    "streetAddress":"忠孝東路四段2號1樓",
+    "addressLocality":"台北市大安區",
+    "postalCode":"106",
+    "addressCountry":"TW"
+   },{
+    "@type":"PostalAddress",
+    "streetAddress":"新生路147號",
+    "addressLocality":"桃園市中壢區",
+    "postalCode":"320",
+    "addressCountry":"TW"
+   },{
+    "@type":"PostalAddress",
+    "streetAddress":"台灣大道二段101號",
+    "addressLocality":"台中市西區",
+    "postalCode":"403",
+    "addressCountry":"TW"
+   },{
+    "@type":"PostalAddress",
+    "streetAddress":"新田路309號",
+    "addressLocality":"高雄市前金區",
+    "addressCountry":"TW"
+   },{
+    "@type":"PostalAddress",
+    "streetAddress":"尖沙咀加連威老道35號G/F",
+    "addressLocality":"香港九龍",
+    "addressCountry":"HK"
+   }
+   ],
+   "url": "https://www.aluxediamond.com/tw/",
+   "logo": "https://www.aluxediamond.com/img/logo_70.png",
+   "image": "https://www.aluxediamond.com/img/logo_70.png",
+   "description": "幸福新人GIA鑽石結婚戒指首推亞立詩鑽石。專屬訂製求婚鑽戒， 結婚鑽戒、結婚對戒。GIA完美車工搭配數百款婚戒款式提供您屬於自己的結婚戒指。時尚手鍊、浪漫耳環、項鍊、各種百變風格的珠寶盡在ALUXE DIAMOND亞立詩鑽石。網友最推薦的戒指品牌，以超高品質、專屬訂製、平易近人的價格打造幸福。",
+   "priceRange": "詳洽概念旗鑑店內服務人員",
+   "email": ["service@diamond.com.tw","aluxehk1@gmail.com"],
+   "telephone":  ["+886-2-2781-5659","+852-2311-1858"]
+  }
+</script>
